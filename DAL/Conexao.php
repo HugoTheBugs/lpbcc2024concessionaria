@@ -4,5 +4,7 @@
             private static $dbHost = 'localhost';
             private static $dbUsuario = 'root';
             private static $dbSenha = '';
+
+            private static $cont == null;
         }
 ?>
